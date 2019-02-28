@@ -2,6 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fcee668-e69c-4215-abd8-0401e05ab3ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/cover1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/css/jquery.fadeshow-0.1.1.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/css/video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/images/bg-co.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/images/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/index-image-slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/background.cycle-custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/background.cycle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/countdown-js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/html5shiv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/jquery.mb.YTPlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/nav-custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs/js/video.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="74" column="55" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
+            <state relative-caret-position="233">
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -32,6 +61,14 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>icon.jpg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,24 +134,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551316635251</updated>
-      <workItem from="1551316636547" duration="1012000" />
+      <workItem from="1551316636547" duration="2277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1012000" />
+    <option name="totallyTimeSpent" value="2277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="-157" width="2560" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123907864" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123907864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -148,8 +185,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="74" column="55" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
+        <state relative-caret-position="233">
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
