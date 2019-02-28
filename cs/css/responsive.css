@@ -1,0 +1,65 @@
+/* lg */
+@media (min-width:1400px) and (max-width:1920px) {
+	article.countdown-pan[role="countdown"]{padding-top:31.5%}
+	article.introduction-pan[role="introduction"]{ padding-top:23.6%}
+	article.subscribe-pan[role="subscribe"],article.contact-pan[role="contact"]{ padding-top:32.6%}
+}
+/* lg */
+/*@media (min-width:1200px) and (max-width:1401px) {
+	article.countdown-pan[role="countdown"]{padding-top:20.5%}
+	article.introduction-pan[role="introduction"]{ padding-top:10.6%}
+	article.subscribe-pan[role="subscribe"],article.contact-pan[role="contact"]{ padding-top:15.6%}
+}*/
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+	article.countdown-pan[role="countdown"]{padding-top:31.5%}
+	article.introduction-pan[role="introduction"]{ padding-top:23.6%}
+	article.subscribe-pan[role="subscribe"],article.contact-pan[role="contact"]{ padding-top:32.6%}
+}
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+	article.countdown-pan[role="countdown"]{padding-top:53.5%}
+	article.introduction-pan[role="introduction"]{ padding-top:53.5%}
+	article.subscribe-pan[role="subscribe"],article.contact-pan[role="contact"]{ padding-top:53.5%}
+	header[role="header"]{ padding:0 1%}
+	header[role="header"] > hgroup nav ul > li{ margin:0 4.5px}
+}
+/* xs */
+@media (max-width: 767px) {
+	body{background-image:url(../images/bg-co.png),url(../images/bg-image.jpg);background-position:47% 0; position:static; background-size:cover;background-repeat:repeat,no-repeat;}
+	main[role="main-wrapper-iamge"],main[role="main-wrapper-iamge"] > .over-bg-color{ position: static; background-image:none}
+	main[role="main-wrapper-iamge"]{ background-image: none}
+	main[role="main-wrapper-iamge"] > .over-bg-color{ background-color:inherit}
+	article.countdown-pan[role="countdown"],article.subscribe-pan[role="subscribe"],article.contact-pan[role="contact"]{ padding-bottom:60%; padding-top:30%}
+	article.introduction-pan[role="introduction"]{ padding-top:30.6%}
+	
+	header[role="header"] > hgroup > h1 > a{ width:120%; line-height:39px; font-size:20px}
+	
+	header[role="header"]{ top:6px; bottom:inherit; padding:0 2%}
+	header[role="header"] > hgroup{ overflow:inherit; padding:2%}
+	header[role="header"] > hgroup nav{ position: relative;width:100%; text-align:center}
+	footer.desk,header[role="header"] > hgroup ul[role="socil-icons"].desk-social{ display:none}
+	header[role="header"] > hgroup nav ul,header[role="header"] > hgroup ul[role="socil-icons"]{ text-align:center; width:100%}
+	header[role="header"] > hgroup nav ul > li{ display:block; margin:0; border-bottom:1px solid #CCC}
+	header[role="header"] > hgroup nav ul > li a{ line-height:40px}
+	footer.mobile p{ text-align:center; line-height:18px}
+	header[role="header"] > hgroup div[role="socil-icons"]{ clear:both; display:block; margin:8px 0}
+	header[role="header"] > hgroup div[role="socil-icons"] li{ display:inline-block; margin:0 6px}
+	header[role="header"] > hgroup div[role="socil-icons"] li a{ color:#353535}
+	header[role="header"] > hgroup div[role="socil-icons"] li a:hover{color:#e84d49}
+	
+	#menu-button{ display: block; position:absolute; right:1%; top:-41px; font-size:0; background-color:#353535; padding:3px 7px; cursor:pointer}
+	#menu-button:hover{background-color:#e84d49;}
+	#menu-button i{font-family:'FontAwesome'; font-size:21px; line-height:23px; color:#FFF; font-weight:normal}
+	
+	article.introduction-pan[role="introduction"] ul > li,article.contact-pan[role="contact"] ul > li{ display:block; margin:0; margin-bottom:20px}
+	article.subscribe-pan[role="subscribe"] form{ width:100%}
+	article.subscribe-pan[role="subscribe"] form input[type="email"]{ width:79.2%}
+	article.contact-pan[role="contact"] h3{ font-size:24px; line-height:26px}
+	article header.page-title h2{ font-size:22px}
+	footer.mobile{ display:block}
+}
+@media (max-width:414px) {
+	article.countdown-pan[role="countdown"],article.subscribe-pan[role="subscribe"],article.contact-pan[role="contact"]{ padding-bottom:60%; padding-top:60%}
+	article.introduction-pan[role="introduction"]{ padding-top:60.6%}
+}
